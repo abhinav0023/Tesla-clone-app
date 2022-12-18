@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tesla-clone-app/static/css/main.cde1dd0a.css",
-    "main.js": "/tesla-clone-app/static/js/main.dab168f4.js",
-    "static/js/787.a60d9421.chunk.js": "/tesla-clone-app/static/js/787.a60d9421.chunk.js",
-    "index.html": "/tesla-clone-app/index.html",
-    "main.cde1dd0a.css.map": "/tesla-clone-app/static/css/main.cde1dd0a.css.map",
-    "main.dab168f4.js.map": "/tesla-clone-app/static/js/main.dab168f4.js.map",
-    "787.a60d9421.chunk.js.map": "/tesla-clone-app/static/js/787.a60d9421.chunk.js.map"
+    "main.css": "/Tesla-clone-app/static/css/main.cde1dd0a.css",
+    "main.js": "/Tesla-clone-app/static/js/main.737c5a1e.js",
+    "static/js/787.a60d9421.chunk.js": "/Tesla-clone-app/static/js/787.a60d9421.chunk.js",
+    "index.html": "/Tesla-clone-app/index.html",
+    "main.cde1dd0a.css.map": "/Tesla-clone-app/static/css/main.cde1dd0a.css.map",
+    "main.737c5a1e.js.map": "/Tesla-clone-app/static/js/main.737c5a1e.js.map",
+    "787.a60d9421.chunk.js.map": "/Tesla-clone-app/static/js/787.a60d9421.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cde1dd0a.css",
-    "static/js/main.dab168f4.js"
+    "static/js/main.737c5a1e.js"
   ]
 }
